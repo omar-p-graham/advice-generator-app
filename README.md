@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/advice-generator-app-using-vuejs-zH6qIezpO_)
 - Live Site URL: (https://omar-p-graham.github.io/advice-generator-app)
 
 ## My process
